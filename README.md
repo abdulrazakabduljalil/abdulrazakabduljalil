@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulrazakabduljalil
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Google data analytics certification
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me via my page
